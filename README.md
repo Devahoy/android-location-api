@@ -7,7 +7,10 @@ Android Location API Tutorial from http://devahoy.com/2014/12/android-location-a
 ## Tutorials
 
 1. Setup Google Play Services
-2. Get Current Location using GoogleApiClients & GooglePlayServicesClient
+2. Get Current Location using GoogleApiClients & LocationListener
+3. Use `GoogleApiClient#connect()` to connect Google Play Service API
+4. Update Location using `LocationListener#onLocationChanged`
+5. Check Location disable/enable using `LocationManager`
 
 ## References
 
